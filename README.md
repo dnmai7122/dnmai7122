@@ -1,7 +1,7 @@
 # ✨ About Me  
 I am a Data Science student at VNUHCM - University of Science, aspiring to contribute to both industry and academia. My focus lies in leveraging data-driven approaches and computational techniques to solve complex problems and drive innovation in Data Science and Computer Science.  
 <br/>
-You can contact me at dngocmai7122@gmail.com. <br/>
+You can contact me at dnmai7122@gmail.com. <br/>
 
 # 🌐 Social Media
 <a href="https://www.facebook.com/dngocmai147/">
